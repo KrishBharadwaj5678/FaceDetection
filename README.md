@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 👨‍💻 Face Detection
 
 This Python based application leverages **OpenCV** and **CVZone** to detect human faces in real time using your webcam. 
